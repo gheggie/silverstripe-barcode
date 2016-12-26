@@ -26,6 +26,7 @@ Some are planned, others are complete.
 
 * Code39 **DONE**
 * Code128 **DONE**
+* Codabar **DONE**
 * QRCode *In Progress*
 * DataMatrix *Not Started*
 * UPC *Not Started*

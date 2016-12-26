@@ -9,8 +9,6 @@
  * Minimum Requirement: PHP 5.3.0
  */
 
-namespace emberlabs\Barcode;
-
 /**
  * emberlabs Barcode Creator - Code39
  * 	     Generate Code39 Barcides
